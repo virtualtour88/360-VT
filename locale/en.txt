@@ -1,0 +1,31 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 VT
+
+## Media
+
+### Title
+map_F8AE92E9_F030_1EE8_41E5_E32828F5755F.label = 1 BHK-Type A_For VR Plan-01
+panorama_E68F4501_EFF9_BCD9_41D1_7333DA8195E6.label = Master Bathroom
+panorama_E777BF7F_EFF8_EB29_41EA_1D8D60E2174D.label = Bathroom
+panorama_E7A21DDC_EFF8_AF6F_41DD_1FE9DD87A67B.label = Living Room
+panorama_E80BD4CE_EFF8_DD6B_41BF_1E1961BFAEE7.label = Master Bedroom
+panorama_E8AD2E56_EFF8_6D7B_41BB_B16EA077E3BD.label = Dining Area
+panorama_E936FB72_EFF8_AB3B_41E1_49A4B37A3D26.label = Kitchen
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_48788937_41B2_44D0_418A_99335F4F198F.toolTip = Dining Area
+HotspotPanoramaOverlayArea_48789937_41B2_44D0_41BE_164C5881E8E7.toolTip = Dining Area
+HotspotPanoramaOverlayArea_4878B937_41B2_44D0_41B5_CD95E6E1A9C4.toolTip = Living Room
+HotspotPanoramaOverlayArea_4878D937_41B2_44D0_41BA_61D16AFEBAC9.toolTip = Kitchen
+HotspotPanoramaOverlayArea_487D2937_41B2_44D0_41CD_83388845E538.toolTip = Bathroom
+HotspotPanoramaOverlayArea_487D7937_41B2_44D0_41B7_4840FDE5211B.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_487E9937_41B2_44D0_41CF_BA39D7B66242.toolTip = Kitchen
+HotspotPanoramaOverlayArea_487EA937_41B2_44D0_41CE_FB5E54510B74.toolTip = Kitchen
